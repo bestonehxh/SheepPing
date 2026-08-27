@@ -1,0 +1,23 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "extended-srgb:0.510,0.408,0.722,1.000",
+      "extended-srgb:0.341,0.271,0.541,1.000"
+    ]
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "glass": false,
+          "image-name": "sheepping-artwork.png"
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}
