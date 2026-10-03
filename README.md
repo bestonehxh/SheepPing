@@ -36,6 +36,7 @@ SheepPing is one of a few small native macOS apps for network engineers:
 | <img src="https://raw.githubusercontent.com/bestonehxh/SheepText/main/.github/icon.png?v=3" width="44" alt=""> | [SheepText](https://github.com/bestonehxh/SheepText) | Fast text editor with tree-sitter highlighting and a JavaScript plugin system |
 | <img src="https://raw.githubusercontent.com/bestonehxh/LabDC/main/.github/icon.png" width="44" alt=""> | [LabDC](https://github.com/bestonehxh/LabDC) | Active Directory–compatible domain controller with RADIUS for 802.1X and a lab CA |
 | <img src="https://raw.githubusercontent.com/bestonehxh/SheepLog/main/.github/icon.png?v=2" width="44" alt=""> | [UncleSpy](https://github.com/bestonehxh/SheepLog) | Syslog viewer, SNMP tester and packet capture with TCP and 802.1X ladder diagrams — and a Troubleshoot page that reads all three |
+| <img src="https://raw.githubusercontent.com/bestonehxh/Paddock/main/.github/icon.png" width="44" alt=""> | [Paddock](https://github.com/bestonehxh/Paddock) | VM control and console for standalone ESXi hosts — power, snapshots, guest files and scripts, no vCenter |
 
 ## Features
 
